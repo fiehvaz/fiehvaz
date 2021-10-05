@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="Coding" width="650" src="https://ibb.co/rFYGc1b">
+<img align="center" alt="Coding" width="650" src="https://i.ibb.co/vVpxQKs/git-cover-filipe.png">
  </div>
 
 ## Welcome to my git, my name is Filipe
