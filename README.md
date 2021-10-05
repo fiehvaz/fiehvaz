@@ -1,4 +1,4 @@
-<img align="left" alt="Coding" width="50" src="https://flutter.dev/assets/images/docs/get-started/ios/react-native/flutter-fade.gif">
+<img align="left" alt="Coding" width="50" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27597f04-0063-4efb-a897-8a04e265b089/db9j1bh-14751cd9-f608-45eb-a83f-2090402edea3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3NTk3ZjA0LTAwNjMtNGVmYi1hODk3LThhMDRlMjY1YjA4OVwvZGI5ajFiaC0xNDc1MWNkOS1mNjA4LTQ1ZWItYTgzZi0yMDkwNDAyZWRlYTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1eLE2pwF5ezAY_Cb5lvO0ZUqyVN1vo5qlIunJ7KDMUQ">
 
 ## Welcome to my git, my name is Filipe
 <div align="center">
