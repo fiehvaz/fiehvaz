@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="Coding" width="650" src="https://i.ibb.co/vVpxQKs/git-cover-filipe.png">
+<img align="center" alt="Coding" width="650" src="https://i.ibb.co/GJ1z1Kv/git-cover-filipe-final.png">
  </div>
 
 <div align="left">
