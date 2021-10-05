@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://flutter.dev/assets/images/docs/get-started/ios/react-native/flutter-fade.gif">
+
 ## Welcome to my git, my name is Filipe
 <div align="center">
   <a href="https://github.com/fiehvaz">
