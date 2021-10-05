@@ -22,6 +22,6 @@
    
 ##
  
-  ![Snake animation](https://github.com/leowvazd/leowvazd/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leowvazd/fiehvaz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
