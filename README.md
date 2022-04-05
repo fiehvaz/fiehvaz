@@ -1,6 +1,4 @@
-<div align="center">
-<img align="center" alt="Coding" width="650" src="https://i.ibb.co/GJ1z1Kv/git-cover-filipe-final.png">
- </div>
+
 
 <div align="center">
  <br>
